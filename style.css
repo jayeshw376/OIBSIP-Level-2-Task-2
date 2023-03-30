@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+.one{
+    margin-top: 80px;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: black;
+    background-color: white;
+    border: 3px solid white;
+    border-radius: 50px;
+}
+th{
+    font-size: 20px; 
+}
+.thh{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+img{
+    margin-left: 30px;
+    flex-wrap: wrap;
+    border-radius: 50px;
+}
+.two{
+    text-align: justify;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 80px;
+    color: white;
+    font-size: 25px;
+}
+.three{
+    margin-top: 80px;
+    color: white;
+    text-align: justify;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 80px;
+    color: white;
+    font-size: 25px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    margin-top: 30px;
+  }
+  
